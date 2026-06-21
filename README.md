@@ -23,7 +23,7 @@ My long-term goal is to work at the intersection of Electronics, Robotics, and A
   <a href="mailto:prathameshprabhakar27@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" style="margin: 0 6px;" />
   </a>
-  <a href="https://www.linkedin.com/in/brunogg/">
+  <a href="https://www.linkedin.com/in/prathameshprabh/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" style="margin: 0 6px;" />
   </a>
   <a href="https://github.com/BrunoGG69">
